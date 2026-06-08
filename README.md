@@ -3,7 +3,7 @@
 
 📍 Bangalore, India
 📧 chandanas1107@gmail.com
-🌐 [chandanas1107.github.io](https://chandanas1107.github.io)
+🌐 https://chandanas1107-wq.github.io
 
 ---
 
